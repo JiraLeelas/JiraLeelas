@@ -4,7 +4,7 @@ I am passionate about leveraging programming, statistical learning, and analytic
 
 ## 🛠Technologies & Tools🛠 
 - **Programming**: Python, R
-- **Database**: SQL
+- **Database**: SQL, MySQL
 - **Data Science & Analytics**: Pandas, NumPy, Scikit-learn, TensorFlow, Keras
 - **Data Visualization:** Matplotlib, Seaborn, Plotly, Bokeh, GGplot2
 - **Dashboard**: Dash, Power BI
@@ -23,6 +23,9 @@ A proof-of-concept project for high-throughput thermal profile analysis in a con
 ### 3. [Portuguese Bank Term Deposit Subscription Prediction](https://github.com/JiraLeelas/Bank-Term-Deposit-Prediction)
 A personal project analyzing a Portuguese bank's telemarketing campaign for term deposit subscriptions using the UCI Machine Learning dataset. 
 This project aims to help marketers identify potential clients based on historical data through statistical learning models, improving targeting strategies and campaign effectiveness.
+
+### 4. [Los Angeles Metro Bike Share Analysis](https://github.com/JiraLeelas/LA-Metro-Bike-Share)
+An end-to-end project analyzing LA Metro Bike Share trips from 2022 to 2024, utilizing Python and MySQL for the ETL process and Power BI for visualization and analysis.
 
 ## 🌱Skill Developments🌱
 ### 1. [CS50's Introduction to Databases with SQL](https://github.com/JiraLeelas/CS50-SQL)
